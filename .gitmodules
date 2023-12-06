@@ -1,0 +1,3 @@
+[submodule "TheFoundation"]
+	path = TheFoundation
+	url = https://github.com/zinosaure/TheFoundation.git
